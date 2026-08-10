@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: slot-shuga-rash.github.io
+Sitemap: https://slot-shuga-rash.github.io/sitemap.xml
